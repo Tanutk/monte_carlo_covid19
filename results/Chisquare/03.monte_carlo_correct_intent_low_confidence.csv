@@ -1,0 +1,44 @@
+index,original_text,predicted_intent,actual_intent1,actual_confidence1,actual_intent2,actual_confidence2,actual_intent3,actual_confidence3,actual_intent_correct
+3,What is nearest hospital ?,Test_Center_Contact_Info,Test_Center_Contact_Info,0.6676450252532959,Covid_Description,0.3519688963890076,Treatment_hospital_capacity,0.2747255861759186,BELOW_THRESHOLD
+5,how do I know if i have this thing,Covid_Symptoms,Covid_Symptoms,0.5182248830795289,covid-diagnosis,0.48942313194274906,General_Agent_Capabilities,0.2728841066360474,BELOW_THRESHOLD
+12,Let us talk about you,General_About_You,General_About_You,0.49906249046325685,Bot_Control_Change_Subject,0.3351634740829468,General_Connect_to_Agent,0.2528144359588623,BELOW_THRESHOLD
+13,status ?,tx_count,tx_count,0.6541415214538575,Covid_Case_Count,0.28917302489280705,CDC_Info,0.273420798778534,BELOW_THRESHOLD
+24,Could I speak to someone in the store next tuesday?,Customer_Care_Appointments,Customer_Care_Appointments,0.6564116954803467,General_Connect_to_Agent,0.4994700431823731,covid-schools-open,0.271077710390091,BELOW_THRESHOLD
+34,how do i know if I got this thing,Covid_Symptoms,Covid_Symptoms,0.5219849824905396,covid-diagnosis,0.38524761199951174,General_Agent_Capabilities,0.3661860585212708,BELOW_THRESHOLD
+35,What is the test to detect covid 19?,covid_thailand_cost,covid_thailand_cost,0.466746735572815,Covid_Symptoms,0.2872596144676209,Covid_Case_Count,0.2823276162147522,BELOW_THRESHOLD
+46,location please,Test_Center_Contact_Info,Test_Center_Contact_Info,0.5364861965179444,tx_count,0.3360144138336182,Bot_Control_Start_Over,0.29427643418312077,BELOW_THRESHOLD
+47,Should I take Theraflu?,Treatment_info,Treatment_info,0.4603978395462036,Covid_Travel_Restrictions,0.3311566114425659,Social_Distancing,0.31172349452972414,BELOW_THRESHOLD
+50,How can I tell if I am infected?,covid-diagnosis,covid-diagnosis,0.6544466018676758,covid-fever-definition,0.5922163486480714,tx_count,0.26621958017349245,BELOW_THRESHOLD
+51,How can I skip the recorded menu and go straight to a live person?,General_Connect_to_Agent,General_Connect_to_Agent,0.5333645343780518,covid_thailand_hand_washing,0.28473998904228215,COVID_Illness_Length,0.24925302267074587,BELOW_THRESHOLD
+55,Why was a pandemic declared?,globalcovid_pandemic,globalcovid_pandemic,0.14688153466006212,Covid_Event_Shutdowns,0.044782439322717596,covid_thailand_hand_washing,0.03717541865946217,BELOW_THRESHOLD
+56,help me decide,Help,Help,0.3150587320327759,General_Agent_Capabilities,0.31021894216537477,Bot_Control_Standby,0.2902815341949463,BELOW_THRESHOLD
+60,how many people have the virus?,tx_count,tx_count,0.5255066156387329,covid-diagnosis,0.3154327869415283,covid_thailand_hand_washing,0.2561176180839539,BELOW_THRESHOLD
+66,Do i have coronavirus?,covid-diagnosis,covid-diagnosis,0.3866953492164612,Treatment_info,0.2814544022083283,mask_type_question,0.2743741273880005,BELOW_THRESHOLD
+74,I d like to stop doing this,General_Ending,General_Ending,0.567987036705017,General_Negative_Feedback,0.3244801163673401,covid_thailand_when_quarantine,0.26429654955863957,BELOW_THRESHOLD
+84,You've been so helpful :),General_Positive_Feedback,General_Positive_Feedback,0.6580041408538819,General_Greetings,0.3668694853782654,Bot_Control_Unsure,0.27619683742523193,BELOW_THRESHOLD
+88,I heard about covid what is it?,Covid_Description,Covid_Description,0.5306073665618897,govt_emergency,0.2879263758659363,Bot_Control_Clarification,0.2688134849071503,BELOW_THRESHOLD
+90,Is there a medication that can help me feel better?,Treatment_info,Treatment_info,0.5471509218215942,Help,0.32063075304031374,Covid_School_Shutdown,0.2910098314285279,BELOW_THRESHOLD
+91,How cool is this?,General_Positive_Feedback,General_Positive_Feedback,0.44945194721221926,Covid_Description,0.31313486099243165,General_Security_Assurance,0.30815809965133667,BELOW_THRESHOLD
+98,I need to speak to a representative. How would I go about doing so?,General_Connect_to_Agent,General_Connect_to_Agent,0.6764233112335205,covid-schools-open,0.278602021932602,travel_embassies,0.2584907650947571,BELOW_THRESHOLD
+109,What time can I meet the staff?,Customer_Care_Appointments,Customer_Care_Appointments,0.4033912897109986,COVID_Illness_Length,0.25838882327079776,govt_emergency,0.2583223342895508,BELOW_THRESHOLD
+113,I like that,Bot_Control_Approve_Response,Bot_Control_Approve_Response,0.4882915258407593,General_Negative_Feedback,0.2772213995456696,covid-diagnosis,0.26727023124694826,BELOW_THRESHOLD
+114,Covid impact,Covid_Description,Covid_Description,0.5327025413513184,cdc_summary,0.3438724637031555,Covid_School_Shutdown,0.3067532181739807,BELOW_THRESHOLD
+126,Is there anything you can help me with?,General_Agent_Capabilities,General_Agent_Capabilities,0.51783447265625,Bot_Control_Confirm_Presence,0.3062201619148255,General_Jokes,0.2683312058448792,BELOW_THRESHOLD
+133,Is regular mask OK ?,mask_type_question,mask_type_question,0.5624024868011475,Bot_Control_Approve_Response,0.37543803453445435,masks_protection,0.34696426391601565,BELOW_THRESHOLD
+140,What happens when the hospital is full?,Treatment_hospital_capacity,Treatment_hospital_capacity,0.6121015548706055,covid_thailand_high_temp,0.28770334720611573,Customer_Care_Store_Hours,0.2733739733695984,BELOW_THRESHOLD
+144,Hey bot go away,General_Ending,General_Ending,0.5282616138458252,General_Greetings,0.4075438976287842,General_Human_or_Bot,0.24394078254699708,BELOW_THRESHOLD
+158,Flu vs. COVID-19,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.4831697225570679,covid-flu-vs-common-cold,0.30438101291656494,Application_for_COVID-19,0.27086737751960754,BELOW_THRESHOLD
+159,i appreciate it,Thanks,Thanks,0.647934103012085,Bot_Control_Approve_Response,0.4905545711517334,Covid_Symptoms,0.25905526876449586,BELOW_THRESHOLD
+164,Can the government close public places?,govt_emergency,govt_emergency,0.37897172855467715,Customer_Care_Store_Hours,0.2600140245875139,Food_safety,0.11838895280525037,BELOW_THRESHOLD
+165,How many people total have coronavirus?,tx_count,tx_count,0.5549869298934937,covid-diagnosis,0.3227720618247986,Treatment_hospital_capacity,0.30777859687805176,BELOW_THRESHOLD
+169,ARE COLLEGES OPEN,Covid_School_Shutdown,Covid_School_Shutdown,0.5264318466186524,Customer_Care_Store_Hours,0.4183155298233032,Covid_Symptoms,0.2559273719787598,BELOW_THRESHOLD
+176,How do I clean my home properly?,Covid_Cleaning_Disinfecting,Covid_Cleaning_Disinfecting,0.5460502862930299,Bot_Control_Approve_Response,0.4575061321258545,covid_thailand_hand_washing,0.3638766169548035,BELOW_THRESHOLD
+190,Who do I ask for help outside of the country?,travel_embassies,travel_embassies,0.534725570678711,who_video,0.25892317295074463,mask_type_question,0.25711510181427005,BELOW_THRESHOLD
+202,ddc,covid_thailand_ddc,covid_thailand_ddc,0.35143522024154666,Bot_Control_Approve_Response,0.31285245418548585,Bot_Control_Standby,0.30199873447418213,BELOW_THRESHOLD
+216,Expenses for requesting laboratory confirmation,covid_thailand_expenses,covid_thailand_expenses,0.4951656341552735,Bot_Control_Change_Subject,0.2807088136672974,Customer_Care_Appointments,0.2662937164306641,BELOW_THRESHOLD
+219,how do i know if i got this,Covid_Symptoms,Covid_Symptoms,0.4228907346725464,covid-diagnosis,0.41819081306457523,General_Agent_Capabilities,0.35649570226669314,BELOW_THRESHOLD
+222,how many people ar sick in Thailand?,tx_count,tx_count,0.6336535930633544,Covid_Case_Count,0.3233697295188904,local_updates,0.25236621499061584,BELOW_THRESHOLD
+234,"To be honest, I m really not sure",Bot_Control_Unsure,Bot_Control_Unsure,0.6583858013153077,General_Negative_Feedback,0.259546834230423,Bot_Control_Approve_Response,0.2557988524436951,BELOW_THRESHOLD
+237,Who is responsible for quarantined people?,covid_thailand_quarantine,covid_thailand_quarantine,0.5420008897781372,covid_thailand_when_quarantine,0.31928181648254395,Bot_Control_Reject_Response,0.29364193677902223,BELOW_THRESHOLD
+239,How can I lower my temperature if I have the coronavirus?,Treatment_info,Treatment_info,0.54905104637146,covid-diagnosis,0.3805020093917847,covid-fever-definition,0.2678948938846588,BELOW_THRESHOLD
+247,What are the crisis measures currently in place?,govt_emergency,govt_emergency,0.4671811103820801,Covid_Case_Count,0.2960016489028931,General_Agent_Capabilities,0.26717563271522526,BELOW_THRESHOLD

@@ -1,0 +1,255 @@
+,original_text,predicted_intent,actual_intent1,actual_confidence1,actual_intent2,actual_confidence2,actual_intent3,actual_confidence3
+0,how can one know if they have been infected?,Covid_Symptoms,tx_count,0.5976738929748535,covid-diagnosis,0.4659035444259644,covid_thailand_ill_case,0.2444091320037842
+1,How many cases of COVID-19 are in the Thailand?,tx_count,tx_count,0.9978486061096192,Treatment_hospital_capacity,0.2522840559482575,cdc_facts,0.24221449792385102
+2,airlines information,Airlines_Information,Covid_Description,0.4923874616622925,CDC_Info,0.34294116497039795,Bot_Control_Clarification,0.3013811588287354
+3,What is nearest hospital ?,Test_Center_Contact_Info,Test_Center_Contact_Info,0.6676450252532959,Covid_Description,0.3519688963890076,Treatment_hospital_capacity,0.2747255861759186
+4,I was on vacation in another country. Do I need to quarantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.7469499588012696,Covid_Travel_Restrictions,0.5014449834823609,Bot_Control_Change_Subject,0.28088892698287965
+5,how do I know if i have this thing,Covid_Symptoms,Covid_Symptoms,0.5182248830795289,covid-diagnosis,0.48942313194274906,General_Agent_Capabilities,0.2728841066360474
+6,About you,General_About_You,General_About_You,0.7766338348388673,General_Greetings,0.34311814308166505,General_Positive_Feedback,0.3426713109016418
+7,is covid the same as the flu?,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.9833892345428468,Covid_Case_Count,0.2535980820655823,cdc_summary,0.2533978819847107
+8,I have one more question,Bot_Control_Change_Subject,Bot_Control_Clarification,0.6081546783447266,Bot_Control_Change_Subject,0.488050651550293,Bot_Control_Unsure,0.3006629943847656
+9,Is this a trusted chat site?,General_Security_Assurance,General_Security_Assurance,0.9103167057037354,General_Human_or_Bot,0.2851509213447571,Bot_Control_Change_Subject,0.26958138942718507
+10,How can I reduce the spread?,Social_Distancing,Treatment_info,0.3964350581169129,govt_emergency,0.31468220949172976,covid-prevent-spread,0.2953398704528809
+11,You're misunderstanding me,Bot_Control_Reject_Response,Bot_Control_Confirm_Presence,0.3555177211761475,General_Negative_Feedback,0.3273293495178223,General_About_You,0.2673224270343781
+12,Let us talk about you,General_About_You,General_About_You,0.49906249046325685,Bot_Control_Change_Subject,0.3351634740829468,General_Connect_to_Agent,0.2528144359588623
+13,status ?,tx_count,tx_count,0.6541415214538575,Covid_Case_Count,0.28917302489280705,CDC_Info,0.273420798778534
+14,You are on my nerves,General_Negative_Feedback,Covid_Symptoms,0.658116340637207,General_Negative_Feedback,0.41853854656219486,Bot_Control_Confirm_Presence,0.31678338050842286
+15,When will the NCAA championships be held?,Covid_Event_Shutdowns,Covid_School_Shutdown,0.4757023334503174,Covid_Event_Shutdowns,0.42798049449920655,Covid_Testing_Results,0.274235475063324
+16,"I'm feeling sick, but I'm not sure whether I have the covid-19.",covid-diagnosis,covid-diagnosis,0.9526088237762451,Covid_Symptoms,0.3146608591079712,Airlines_Information,0.2592329561710358
+17,Stop doing this,General_Ending,General_Ending,0.7388081073760986,Bot_Control_Ignore_Undo,0.27262814640998845,covid_thailand_when_quarantine,0.2675575613975525
+18,I want to speak to a human,General_Connect_to_Agent,General_Connect_to_Agent,0.9975226402282715,General_Human_or_Bot,0.2524371206760407,covid_thailand_quarantine,0.23596225976943971
+19,I'm afraid I have covid-19,Covid_Symptoms,covid-diagnosis,0.9382400989532471,General_Ending,0.3918870806694031,Application_for_COVID-19,0.2601221859455109
+20,I don t know what you need,Bot_Control_Unsure,Bot_Control_Unsure,0.9186134338378906,General_Agent_Capabilities,0.29361282587051396,mask_type_question,0.2404779136180878
+21,What is covid,Covid_Description,Covid_Description,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+22,Talk about something else,Bot_Control_Change_Subject,Bot_Control_Change_Subject,0.9404869079589844,Bot_Control_Clarification,0.28036782741546634,General_Agent_Capabilities,0.2632857739925385
+23,Is a headache a symptom of the coronavirus?,Covid_Symptoms,Covid_Symptoms,0.9690844535827636,covid-flu-vs-coronavirus,0.4142500162124634,covid_thailand_cost,0.30487914085388185
+24,Could I speak to someone in the store next tuesday?,Customer_Care_Appointments,Customer_Care_Appointments,0.6564116954803467,General_Connect_to_Agent,0.4994700431823731,covid-schools-open,0.271077710390091
+25,Please connect me to a live agent,General_Connect_to_Agent,General_Connect_to_Agent,0.9993369579315186,tx_count,0.27430981397628784,Bot_Control_Start_Over,0.23816317915916443
+26,In what way can I tell if my plastic is safe?,General_Security_Assurance,covid-fever-definition,0.48093178272247317,General_Security_Assurance,0.40989108085632325,covid-what-if-sick,0.33315349817276
+27,Are you even real?,General_Human_or_Bot,General_Human_or_Bot,0.8720614910125732,General_Negative_Feedback,0.28532403111457827,General_About_You,0.25636925101280217
+28,How do I get tested?,covid-screening,covid-screening,0.8504220008850099,Covid_Symptoms,0.36942796707153325,covid_thailand_cost,0.2583587884902954
+29,"I live in Austin, where can I get tested for Covid-19",covid-screening,covid-screening,0.9951096057891846,Airlines_Information,0.24149381518363955,Application_for_COVID-19,0.2331992417573929
+30,What do you mean by that?,Bot_Control_Clarification,General_Agent_Capabilities,0.6314127922058106,covid-shortness-of-breath-definition,0.46583137512207035,Bot_Control_Ignore_Undo,0.37852799892425537
+31,how is covid status today ?,tx_count,tx_count,0.9460950851440431,Covid_Description,0.3463486790657043,Covid_Case_Count,0.2551522672176361
+32,Contact person,General_Connect_to_Agent,General_Connect_to_Agent,0.7816828727722169,travel_embassies,0.4316308975219727,Customer_Care_Appointments,0.27544321417808537
+33,when can my kid go back school,Covid_School_Shutdown,Covid_School_Shutdown,0.9948569297790528,Covid_Testing_Locations,0.23736938238143923,covid_thailand_vaccine,0.23360787332057953
+34,how do i know if I got this thing,Covid_Symptoms,Covid_Symptoms,0.5219849824905396,covid-diagnosis,0.38524761199951174,General_Agent_Capabilities,0.3661860585212708
+35,What is the test to detect covid 19?,covid_thailand_cost,covid_thailand_cost,0.466746735572815,Covid_Symptoms,0.2872596144676209,Covid_Case_Count,0.2823276162147522
+36,Hate you,General_Negative_Feedback,General_Negative_Feedback,0.9756481647491455,Cancel,0.24796820580959322,covid_thailand_from_airborne,0.23303540647029877
+37,What if I break quarantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.9519463062286377,covid-what-if-sick,0.3123443365097046,Bot_Control_Standby,0.29101529717445374
+38,Are my schools closed,Covid_School_Shutdown,Covid_School_Shutdown,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+39,Pregnancy advice,covid_thailand_pregnancy,Covid_Symptoms,0.39415892362594607,Covid_Testing_Results,0.24465589821338654,Customer_Care_Appointments,0.2385614335536957
+40,How many cases of the virus are there in the world?,tx_count,tx_count,0.9996206283569335,covid_thailand_report_someone,0.244194296002388,General_Security_Assurance,0.2427520126104355
+41,I'm looking forward to working with you again! :),General_Positive_Feedback,General_Ending,0.41619424819946294,General_Human_or_Bot,0.3188265562057495,covid-schools-open,0.31169698238372806
+42,should i travel?,Covid_Travel_Restrictions,Covid_Travel_Restrictions,0.9265897750854493,cdc_traveler,0.27693026661872866,Social_Distancing,0.27097803950309757
+43,I change my mind.,Bot_Control_Ignore_Undo,Bot_Control_Approve_Response,0.7188361167907715,Customer_Care_Appointments,0.4101972818374634,Bot_Control_Change_Subject,0.274467271566391
+44,The WHO has declared a pandemic in the world. What does this mean?,globalcovid_pandemic,globalcovid_pandemic,0.9145832061767578,travel_embassies,0.31482912302017213,Bot_Control_Ignore_Undo,0.2991377830505371
+45,Yes send text message,Bot_Control_Approve_Response,Bot_Control_Reject_Response,0.29200305938720705,Bot_Control_Approve_Response,0.29125940799713135,Bot_Control_Start_Over,0.2846747994422913
+46,location please,Test_Center_Contact_Info,Test_Center_Contact_Info,0.5364861965179444,tx_count,0.3360144138336182,Bot_Control_Start_Over,0.29427643418312077
+47,Should I take Theraflu?,Treatment_info,Treatment_info,0.4603978395462036,Covid_Travel_Restrictions,0.3311566114425659,Social_Distancing,0.31172349452972414
+48,I need help with find a test center,Test_Center_Contact_Info,Test_Center_Contact_Info,0.7835807800292969,covid_thailand_cost,0.3623406767845154,Bot_Control_Start_Over,0.28082219362258914
+49,when can my kids go back to college?,Covid_School_Shutdown,Covid_School_Shutdown,0.8839294910430908,Covid_Travel_Restrictions,0.23676705360412598,covid_thailand_when_quarantine,0.23618158102035525
+50,How can I tell if I am infected?,covid-diagnosis,covid-diagnosis,0.6544466018676758,covid-fever-definition,0.5922163486480714,tx_count,0.26621958017349245
+51,How can I skip the recorded menu and go straight to a live person?,General_Connect_to_Agent,General_Connect_to_Agent,0.5333645343780518,covid_thailand_hand_washing,0.28473998904228215,COVID_Illness_Length,0.24925302267074587
+52,Its been a week. Who can I call to get my test results?,Covid_Testing_Results,Covid_Testing_Results,0.9468462944030762,General_Connect_to_Agent,0.29472216963768005,travel_embassies,0.27804040908813477
+53,Can herbal medicines such as andrographis Paniculata cure Coronavirus?,covid_thailand_herbal_medicines,Treatment_info,0.9057167530059815,covid-flu-vs-coronavirus,0.450602650642395,covid_thailand_vaccine,0.3322520852088928
+54,One more time from the beginning,Bot_Control_Start_Over,Bot_Control_Start_Over,0.7757283210754395,Treatment_shortnessOfBreath,0.26735422015190125,Bot_Control_Clarification,0.26633616089820866
+55,Why was a pandemic declared?,globalcovid_pandemic,globalcovid_pandemic,0.14688153466006212,Covid_Event_Shutdowns,0.044782439322717596,covid_thailand_hand_washing,0.03717541865946217
+56,help me decide,Help,Help,0.3150587320327759,General_Agent_Capabilities,0.31021894216537477,Bot_Control_Standby,0.2902815341949463
+57,What do you mean?,Bot_Control_Clarification,General_Agent_Capabilities,0.5302582740783692,covid-shortness-of-breath-definition,0.5204671859741211,covid-fever-definition,0.4078145503997803
+58,I would like to start all over,Bot_Control_Start_Over,Bot_Control_Start_Over,0.9273406982421875,Bot_Control_Standby,0.31298811435699464,Covid_Event_Shutdowns,0.2482439070940018
+59,Can someone come see me during quarantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.8941208839416503,General_Connect_to_Agent,0.25746181011199953,covid_thailand_self_quarantine,0.23988802433013917
+60,how many people have the virus?,tx_count,tx_count,0.5255066156387329,covid-diagnosis,0.3154327869415283,covid_thailand_hand_washing,0.2561176180839539
+61,store open hours?,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9991236209869385,Bot_Control_Standby,0.2407092094421387,TH_Embassy_Travel_News,0.2381639510393143
+62,Is there anyone there I can actually talk to for real?,General_Connect_to_Agent,General_Connect_to_Agent,0.8298842430114746,General_Jokes,0.30237916707992557,covid_thailand_quarantine,0.26389343142509464
+63,Covid around me,tx_count,Bot_Control_Confirm_Presence,0.9020087242126464,tx_count,0.369428026676178,Covid_Description,0.27879220247268677
+64,what is the corona virus?,Covid_Description,Covid_Description,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+65,What are the first symptoms for COVID?,Covid_Symptoms,Covid_Symptoms,0.988683032989502,Treatment_hospital_capacity,0.24985117316246033,Covid_School_Shutdown,0.24626723229885103
+66,Do i have coronavirus?,covid-diagnosis,covid-diagnosis,0.3866953492164612,Treatment_info,0.2814544022083283,mask_type_question,0.2743741273880005
+67,I do not like you,General_Negative_Feedback,General_Negative_Feedback,0.9319604873657228,Bot_Control_Clarification,0.25413548946380615,General_Jokes,0.23346653282642366
+68,i have a sore throat,Covid_Symptoms,Covid_Symptoms,0.9964535236358643,masks_protection,0.2514430284500122,globalcovid_pandemic,0.2376969188451767
+69,covid number in my state?,Covid_Case_Count,tx_count,0.9563064098358154,govt_emergency,0.30603440999984743,Covid_Travel_Restrictions,0.3024297714233399
+70,Should I spray myself or my kids with disinfectant?,Covid_Cleaning_Disinfecting,covid-schools-open,0.46621594429016117,Covid_Cleaning_Disinfecting,0.4637065410614014,covid-diagnosis,0.28975898623466495
+71,tx_test,tx_test,covid-screening,0.8344484329223634,tx_emergency,0.4329828977584839,covid_thailand_cost,0.41261224746704106
+72,What kind of breathing problem is that?,covid-shortness-of-breath-definition,Treatment_shortnessOfBreath,0.693341064453125,Treatment_info,0.2619291365146637,Bot_Control_Approve_Response,0.25779782533645634
+73,Do you have humor?,General_Jokes,General_Jokes,0.810373067855835,General_About_You,0.2978881657123566,Covid_Cleaning_Disinfecting,0.2451802879571915
+74,I d like to stop doing this,General_Ending,General_Ending,0.567987036705017,General_Negative_Feedback,0.3244801163673401,covid_thailand_when_quarantine,0.26429654955863957
+75,Screening cost,covid_thailand_cost,covid_thailand_cost,0.6917898654937744,covid-screening,0.5536351442337036,covid-diagnosis,0.2986435174942017
+76,Where can I get tested for coronavirus?,covid-screening,covid-screening,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+77,What is the latest situation ?,Covid_Case_Count,Covid_Case_Count,0.8260603904724122,globalcovid_pandemic,0.24054788053035736,General_Positive_Feedback,0.2345076709985733
+78,How is the US government addressing the spread of covid-19?,govt_emergency,govt_emergency,0.918616533279419,Covid_Case_Count,0.28667148351669314,Covid_Description,0.2526816725730896
+79,where did covid come from?,Covid_Description,Covid_Description,0.9485148429870607,General_About_You,0.32291263341903687,covid-screening,0.30150842666625977
+80,Give me a second,Bot_Control_Standby,Bot_Control_Standby,0.8233048915863037,General_Ending,0.28985748887062074,tx_count,0.28937705755233767
+81,What are you able to deal with?,General_Agent_Capabilities,General_Agent_Capabilities,0.9679606914520265,Customer_Care_Appointments,0.28039675354957583,covid_thailand_ill_case,0.24623380005359652
+82,How is a pandemic different from an epidemic?,globalcovid_pandemic,globalcovid_pandemic,0.9256103038787842,covid-flu-vs-coronavirus,0.5113999843597412,Covid_School_Shutdown,0.25333985686302185
+83,what are the symptoms I should look out for,Covid_Symptoms,Covid_Symptoms,0.7777809143066408,covid-schools-open,0.29034456610679626,Covid_Event_Shutdowns,0.2496642917394638
+84,You've been so helpful :),General_Positive_Feedback,General_Positive_Feedback,0.6580041408538819,General_Greetings,0.3668694853782654,Bot_Control_Unsure,0.27619683742523193
+85,Where can I learn more about covid?,Covid_Description,Bot_Control_Clarification,0.36793458461761475,who_video,0.3236412525177002,General_About_You,0.31662490367889407
+86,Wait! Let's back up few steps and do that again,Bot_Control_Ignore_Undo,Bot_Control_Standby,0.84365873336792,Bot_Control_Ignore_Undo,0.3562316417694092,travel_backtoUS,0.3334615588188171
+87,Call agent,General_Connect_to_Agent,General_Connect_to_Agent,0.9247608184814453,General_Ending,0.26346777081489564,tx_emergency,0.2589451134204865
+88,I heard about covid what is it?,Covid_Description,Covid_Description,0.5306073665618897,govt_emergency,0.2879263758659363,Bot_Control_Clarification,0.2688134849071503
+89,How is flu different from corpnavirus,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.944667673110962,Covid_School_Shutdown,0.2934635877609253,General_Greetings,0.25611308217048645
+90,Is there a medication that can help me feel better?,Treatment_info,Treatment_info,0.5471509218215942,Help,0.32063075304031374,Covid_School_Shutdown,0.2910098314285279
+91,How cool is this?,General_Positive_Feedback,General_Positive_Feedback,0.44945194721221926,Covid_Description,0.31313486099243165,General_Security_Assurance,0.30815809965133667
+92,Conversation secure?,General_Security_Assurance,General_Security_Assurance,0.9383325099945068,General_Connect_to_Agent,0.2586011171340943,Thanks,0.25708134770393376
+93,What are you saying?,Bot_Control_Clarification,General_Agent_Capabilities,0.31342549324035646,General_Human_or_Bot,0.30244888067245485,Bot_Control_Clarification,0.29444264173507695
+94,How long should I Quarrantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.8183876991271972,COVID_Illness_Length,0.2947394728660584,Goodbye,0.2912945568561554
+95,That's everything,General_Ending,Bot_Control_Ignore_Undo,0.4338272094726563,Bot_Control_Approve_Response,0.301733934879303,General_Greetings,0.29337258338928224
+96,Can you tell me what a pandemic really is?,globalcovid_pandemic,globalcovid_pandemic,0.910654926300049,covid-fever-definition,0.32279137372970584,govt_emergency,0.32036787271499634
+97,How long should you self-quarantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.9690834522247316,Customer_Care_Store_Hours,0.3138313412666321,General_About_You,0.25396953225135804
+98,I need to speak to a representative. How would I go about doing so?,General_Connect_to_Agent,General_Connect_to_Agent,0.6764233112335205,covid-schools-open,0.278602021932602,travel_embassies,0.2584907650947571
+99,Is it safe to fly to Seattle?,Covid_Travel_Restrictions,cdc_traveler,0.4251389265060425,Food_safety,0.3341156125068665,General_Greetings,0.32178148031234743
+100,Let us reopen this again.,Bot_Control_Start_Over,Bot_Control_Ignore_Undo,0.6117782115936279,Bot_Control_Start_Over,0.35452142953872684,Bot_Control_Standby,0.3111645340919495
+101,How do you function?,General_About_You,General_Agent_Capabilities,0.8277918815612793,covid-screening,0.3415525555610657,General_Security_Assurance,0.31279404163360597
+102,How do flu symptoms differ from cold symptoms?,covid-flu-vs-common-cold,covid-flu-vs-coronavirus,0.5066048622131347,covid-flu-vs-common-cold,0.3706743836402893,Covid_Symptoms,0.3432618141174316
+103,How high is does my temperature need to be for a fever?,covid-fever-definition,covid-fever-definition,0.8414109230041504,COVID_Illness_Length,0.33361450433731077,Treatment_info,0.2482495278120041
+104,how does cover-19 compare to the SARS epidemic?,covid-flu-vs-coronavirus,globalcovid_pandemic,0.34990423917770386,COVID_Illness_Length,0.2860005676746369,Covid_Symptoms,0.2644469022750855
+105,What is the difference between COVID-19 and the flu,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.8102705001831054,covid-flu-vs-common-cold,0.2964647173881531,globalcovid_pandemic,0.24882545471191408
+106,Must a child be quarantined for 14 days if he/she had contact with a person who had travelled to a high-risk country/area? (child did not travel),covid_thailand_child_quarantine,covid_thailand_parent_quarantine,0.17455136679107142,covid_thailand_quarantine,0.1335309542983225,travel_embassies,0.13204192926365935
+107,Are you safe?,General_Security_Assurance,General_Human_or_Bot,0.4930809736251831,General_Security_Assurance,0.4068528175354004,Bot_Control_Confirm_Presence,0.28102559447288517
+108,How many people in the world have died?,tx_count,tx_count,0.9429671764373779,Covid_Case_Count,0.35238883495330814,Treatment_hospital_capacity,0.2741544604301453
+109,What time can I meet the staff?,Customer_Care_Appointments,Customer_Care_Appointments,0.4033912897109986,COVID_Illness_Length,0.25838882327079776,govt_emergency,0.2583223342895508
+110,yeah,Bot_Control_Approve_Response,Bot_Control_Approve_Response,0.8481955051422119,Goodbye,0.25281814336776737,covid-flu-vs-common-cold,0.2499177843332291
+111,Returning from abroad,travel_backtoUS,travel_embassies,0.4908966064453125,covid_thailand_travel_update,0.27295507192611695,Covid_Event_Shutdowns,0.2679918766021729
+112,where cani get tested,covid-screening,covid-screening,0.9615544319152833,covid_thailand_cost,0.3137609720230103,Covid_School_Shutdown,0.2965806066989899
+113,I like that,Bot_Control_Approve_Response,Bot_Control_Approve_Response,0.4882915258407593,General_Negative_Feedback,0.2772213995456696,covid-diagnosis,0.26727023124694826
+114,Covid impact,Covid_Description,Covid_Description,0.5327025413513184,cdc_summary,0.3438724637031555,Covid_School_Shutdown,0.3067532181739807
+115,i changed my mind,Cancel,Bot_Control_Approve_Response,0.627143955230713,Customer_Care_Appointments,0.30659409761428835,Bot_Control_Ignore_Undo,0.26145650744438176
+116,SARS vs Corona virus?,covid-flu-vs-coronavirus,Covid_Description,0.5268434762954712,covid-flu-vs-coronavirus,0.4689924001693726,tx_count,0.32608263492584233
+117,Is Social Distancing the same as isolation?,Social_Distancing,Social_Distancing,0.909548854827881,covid-flu-vs-coronavirus,0.6428800106048584,General_Negative_Feedback,0.2557951152324677
+118,how do you test,covid-screening,covid-screening,0.9318575382232666,General_Agent_Capabilities,0.26852138638496403,General_Security_Assurance,0.25001989603042607
+119,What kind of food is safe from covid ?,Food_safety,Covid_Description,0.7711709499359132,Food_safety,0.45524394512176514,mask_type_question,0.35135208368301396
+120,Where is the closest agent?,General_Connect_to_Agent,Test_Center_Contact_Info,0.8588530540466308,General_Connect_to_Agent,0.6765962600708009,tx_count,0.26240864992141727
+121,How should I properly wash my hands?,covid_thailand_hand_washing,covid_thailand_hand_washing,0.9706916332244873,General_About_You,0.23617810606956482,masks_protection,0.23512297272682192
+122,what are your hours,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9830150127410888,General_Agent_Capabilities,0.33412095308303835,Bot_Control_Standby,0.23347235918045045
+123,"Finished now, good bye",General_Ending,General_Ending,0.757659912109375,Goodbye,0.3769751787185669,General_Agent_Capabilities,0.2769133746623993
+124,I am in a foreign country. Who can help me figure out what to do?,travel_embassies,travel_embassies,0.7148067474365234,travel_backtoUS,0.33179583549499514,masks_protection,0.2974458634853363
+125,what is the count of coronavirus infected people?,tx_count,tx_count,0.91172513961792,Covid_Cleaning_Disinfecting,0.2977195203304291,covid_thailand_self_quarantine,0.26912981867790225
+126,Is there anything you can help me with?,General_Agent_Capabilities,General_Agent_Capabilities,0.51783447265625,Bot_Control_Confirm_Presence,0.3062201619148255,General_Jokes,0.2683312058448792
+127,Hi can you transfer me,General_Connect_to_Agent,General_Greetings,0.38708555698394775,General_Connect_to_Agent,0.3093042492866516,Bot_Control_Confirm_Presence,0.249994096159935
+128,i need assistance,Help,Bot_Control_Start_Over,0.3127277135848999,Help,0.2931015729904175,Bot_Control_Reject_Response,0.289834064245224
+129,when can my high school senior go back to school,Covid_School_Shutdown,Covid_School_Shutdown,0.9959644794464111,Treatment_shortnessOfBreath,0.2397813379764557,covid_thailand_when_quarantine,0.2355526626110077
+130,What cleaning methods kill the coronavirus?,Covid_Cleaning_Disinfecting,Covid_Cleaning_Disinfecting,0.8553831100463867,covid_thailand_hand_washing,0.280309933423996,covid-what-if-sick,0.2757589042186737
+131,Who needs to declare their travel details?,covid_thailand_declare_travel,Covid_Travel_Restrictions,0.7183233261108399,covid_thailand_ddc,0.5854392051696777,travel_embassies,0.3332134008407593
+132,where can I get a test kit,covid-screening,covid-screening,0.8199080467224122,covid_thailand_cost,0.4532726049423218,local_updates,0.25757564306259156
+133,Is regular mask OK ?,mask_type_question,mask_type_question,0.5624024868011475,Bot_Control_Approve_Response,0.37543803453445435,masks_protection,0.34696426391601565
+134,Is driving considered travel?,Covid_Travel_Restrictions,Covid_Travel_Restrictions,0.7666175365447998,cdc_traveler,0.35187594890594487,TH_Embassy_Travel_News,0.28891119360923767
+135,are schools open?,Covid_School_Shutdown,Covid_School_Shutdown,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+136,Thank you for your time,General_Ending,General_Ending,0.7382270812988281,General_Positive_Feedback,0.6340219020843506,Customer_Care_Store_Hours,0.37514719963073734
+137,I don't know what shortness of breath is,covid-shortness-of-breath-definition,covid-shortness-of-breath-definition,0.716370725631714,Treatment_shortnessOfBreath,0.3360240697860718,Treatment_hospital_capacity,0.2480682969093323
+138,How is a cold different from the flu?,covid-flu-vs-common-cold,covid-flu-vs-coronavirus,0.6664173126220703,covid-flu-vs-common-cold,0.4560449600219727,covid-fever-definition,0.3457182765007019
+139,Store appointment,Customer_Care_Appointments,Customer_Care_Appointments,0.8043632984161377,Customer_Care_Store_Hours,0.4369433641433716,General_Connect_to_Agent,0.248032483458519
+140,What happens when the hospital is full?,Treatment_hospital_capacity,Treatment_hospital_capacity,0.6121015548706055,covid_thailand_high_temp,0.28770334720611573,Customer_Care_Store_Hours,0.2733739733695984
+141,What time does the central manchester store shut on a saturday?,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9588961124420166,Covid_Event_Shutdowns,0.2324225902557373,Covid_Case_Count,0.22815528512001038
+142,Who is this?,General_Greetings,General_Positive_Feedback,0.3290169954299927,travel_embassies,0.3103396534919739,Bot_Control_Change_Subject,0.3060852646827698
+143,I want to be tested for covid-19,covid-screening,covid-screening,0.9613223075866699,Airlines_Information,0.2618330478668213,Application_for_COVID-19,0.2583898186683655
+144,Hey bot go away,General_Ending,General_Ending,0.5282616138458252,General_Greetings,0.4075438976287842,General_Human_or_Bot,0.24394078254699708
+145,how long does coronavirus last,COVID_Illness_Length,COVID_Illness_Length,0.9705472469329834,Covid_School_Shutdown,0.24492983222007753,covid-flu-vs-coronavirus,0.23681914806365967
+146,Find a test center,Test_Center_Contact_Info,Test_Center_Contact_Info,0.874109172821045,covid_thailand_cost,0.31896499395370487,covid-screening,0.2601835548877716
+147,is there a test for coronavirus,covid_thailand_cost,covid_thailand_cost,0.7738682746887207,covid-screening,0.4414913892745972,covid_thailand_vaccine,0.23917976915836336
+148,I was unable to cancel my trip before I was scheduled to travel. Will you still honor the value of the ticket?,Airlines_Information,Covid_Travel_Restrictions,0.7584693431854248,Covid_Event_Shutdowns,0.5088299036026,Cancel,0.45503575801849366
+149,covid what is it,Covid_Description,Covid_Description,0.8702191829681396,Treatment_shortnessOfBreath,0.254664820432663,Food_safety,0.24033067226409913
+150,I'm in a covid-free area can I come back to the United States?,travel_backtoUS,travel_backtoUS,0.9675878524780275,govt_emergency,0.38552569150924687,General_Human_or_Bot,0.2688676655292511
+151,corona virus news updates,cdc_summary,cdc_summary,0.692355251312256,local_updates,0.5287028551101685,covid-flu-vs-coronavirus,0.3162663817405701
+152,You gave me exactly what I need!,General_Positive_Feedback,mask_type_question,0.28520407080650334,Bot_Control_Reject_Response,0.27866616249084475,Bot_Control_Approve_Response,0.26838866472244266
+153,Hey there,General_Greetings,General_Greetings,0.9969456195831299,covid_thailand_vaccine,0.23080352246761324,Covid_School_Shutdown,0.23036498725414278
+154,do you have availability next week,Customer_Care_Appointments,Customer_Care_Store_Hours,0.37840540409088136,Customer_Care_Appointments,0.37464346885681155,local_updates,0.245771586894989
+155,Do you have a list of things I can talk to you about?,General_Agent_Capabilities,Bot_Control_Change_Subject,0.27808254957199097,travel_embassies,0.2595396637916565,General_About_You,0.25416988730430606
+156,What guards do you have in place to protect your customer's data?,General_Security_Assurance,General_Security_Assurance,0.8733331680297851,General_Agent_Capabilities,0.36064308881759644,Airlines_Information,0.2756382167339325
+157,How to treat covid?,Treatment_info,Treatment_info,0.8961956024169921,Covid_Symptoms,0.3658069372177124,Covid_Description,0.3300624489784241
+158,Flu vs. COVID-19,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.4831697225570679,covid-flu-vs-common-cold,0.30438101291656494,Application_for_COVID-19,0.27086737751960754
+159,i appreciate it,Thanks,Thanks,0.647934103012085,Bot_Control_Approve_Response,0.4905545711517334,Covid_Symptoms,0.25905526876449586
+160,what are symptoms,Covid_Symptoms,Covid_Symptoms,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+161,I want to talk to the manager,General_Connect_to_Agent,General_Connect_to_Agent,0.9956889629364014,travel_embassies,0.2603878140449524,covid_thailand_pharmacy,0.24497909545898439
+162,yes please,Bot_Control_Approve_Response,Bot_Control_Approve_Response,0.9601643085479736,Bot_Control_Start_Over,0.3600129365921021,General_Connect_to_Agent,0.30630537271499636
+163,give me directions,Test_Center_Contact_Info,tx_count,0.4295319795608521,Test_Center_Contact_Info,0.32392654418945316,CDC_Info,0.3130369067192078
+164,Can the government close public places?,govt_emergency,govt_emergency,0.37897172855467715,Customer_Care_Store_Hours,0.2600140245875139,Food_safety,0.11838895280525037
+165,How many people total have coronavirus?,tx_count,tx_count,0.5549869298934937,covid-diagnosis,0.3227720618247986,Treatment_hospital_capacity,0.30777859687805176
+166,Set up an appt,Customer_Care_Appointments,General_Ending,0.3260664939880371,Customer_Care_Appointments,0.32566877603530886,General_About_You,0.26766359210014345
+167,can i make an appointment,Customer_Care_Appointments,Customer_Care_Appointments,0.9433804512023927,covid_thailand_enterthai,0.2705945611000061,Food_safety,0.24233594834804537
+168,can i go out after 10 pm in bangkok,govt_emergency,govt_emergency,0.9747028827667237,tx_emergency,0.3568800091743469,tx_count,0.33331122398376467
+169,ARE COLLEGES OPEN,Covid_School_Shutdown,Covid_School_Shutdown,0.5264318466186524,Customer_Care_Store_Hours,0.4183155298233032,Covid_Symptoms,0.2559273719787598
+170,How many people are infected in Bangkok?,tx_count,tx_count,0.997549867630005,tx_emergency,0.25795738697052006,Covid_School_Shutdown,0.24263544082641603
+171,What's the difference between flu and coronavirus,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+172,Do you like humor?,General_Jokes,General_Jokes,0.8899252414703369,General_Negative_Feedback,0.4120405435562134,General_Positive_Feedback,0.31414480209350587
+173,Looking good eve,General_Greetings,General_Greetings,0.9206382751464843,Test_Center_Contact_Info,0.29434121251106266,Goodbye,0.26964471340179447
+174,is my kids school closed,Covid_School_Shutdown,Covid_School_Shutdown,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+175,Who are you?,General_About_You,General_About_You,0.6827965736389161,General_Human_or_Bot,0.37461942434310913,Bot_Control_Confirm_Presence,0.36104648113250737
+176,How do I clean my home properly?,Covid_Cleaning_Disinfecting,Covid_Cleaning_Disinfecting,0.5460502862930299,Bot_Control_Approve_Response,0.4575061321258545,covid_thailand_hand_washing,0.3638766169548035
+177,Discuss something else,Bot_Control_Change_Subject,Bot_Control_Change_Subject,0.867046594619751,General_Agent_Capabilities,0.44879040718078617,Bot_Control_Unsure,0.2921626567840576
+178,How can I tell if I have the coronavirus?,covid-diagnosis,covid-diagnosis,0.8417770385742187,covid-fever-definition,0.29082120656967164,Treatment_info,0.2739201903343201
+179,Change topic,Bot_Control_Change_Subject,Bot_Control_Change_Subject,0.8389878273010254,Customer_Care_Appointments,0.2884986221790314,Bot_Control_Approve_Response,0.25911564826965333
+180,Are my children's schools closed?,Covid_School_Shutdown,Covid_School_Shutdown,0.9966724395751954,Covid_Case_Count,0.24476451873779298,Covid_Symptoms,0.23942841291427613
+181,Cancel,Bot_Control_Ignore_Undo,Cancel,0.9295450687408449,Bot_Control_Standby,0.28210747241973877,Covid_Travel_Restrictions,0.26152122020721436
+182,What happens when the hospitals reach capacity?,Treatment_hospital_capacity,Treatment_hospital_capacity,0.7524141788482666,covid_thailand_high_temp,0.3166456460952759,travel_embassies,0.30990530252456666
+183,where should I go to get screened,covid-screening,covid-screening,0.7402544498443604,General_Ending,0.29212535023689273,travel_embassies,0.26601384878158574
+184,What is this 4?,General_Agent_Capabilities,Covid_Description,0.8679003238677978,General_Positive_Feedback,0.4118022680282593,Test_Center_Contact_Info,0.36327892541885376
+185,Do I see a doctor with mild symptoms?,Covid_Symptoms,Covid_Symptoms,0.9648241996765137,covid-screening,0.5314093112945557,masks_protection,0.3076829552650452
+186,Start over,Bot_Control_Start_Over,Bot_Control_Start_Over,0.9697755336761475,Bot_Control_Standby,0.2560974836349488,Customer_Care_Store_Hours,0.2539935946464539
+187,I think I might have the virus.,Covid_Symptoms,Covid_Symptoms,0.8822992324829102,covid-diagnosis,0.7193609237670899,covid_thailand_spread,0.24658735394477846
+188,I'm leaving now,General_Ending,General_Ending,0.9871119499206544,Bot_Control_Confirm_Presence,0.26930755376815796,General_Human_or_Bot,0.24151556491851808
+189,what is the local phone number,Test_Center_Contact_Info,Test_Center_Contact_Info,0.9847218036651613,tx_count,0.2631646037101746,local_updates,0.2602606296539307
+190,Who do I ask for help outside of the country?,travel_embassies,travel_embassies,0.534725570678711,who_video,0.25892317295074463,mask_type_question,0.25711510181427005
+191,What time do you close today,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9873469829559327,bangkokpost_news,0.24058526754379272,Bot_Control_Standby,0.23501100540161135
+192,how is covid situation ?,cdc_summary,Covid_Description,0.7032681941986085,Covid_Case_Count,0.47490117549896244,tx_count,0.40413794517517093
+193,Is HS 123 open?,Covid_School_Shutdown,Customer_Care_Store_Hours,0.6249860286712647,tx_count,0.34656610488891604,General_Ending,0.2919304251670838
+194,Is my payment information secure?,General_Security_Assurance,General_Security_Assurance,0.8622283458709716,Covid_Description,0.3690289855003357,tx_test,0.2847066819667816
+195,What is the difference between an epidemic and a pandemic?,globalcovid_pandemic,globalcovid_pandemic,0.9229659080505372,covid-flu-vs-coronavirus,0.41153664588928224,covid-flu-vs-common-cold,0.25064457654953004
+196,You got me,Bot_Control_Unsure,Bot_Control_Confirm_Presence,0.5324851989746093,Bot_Control_Approve_Response,0.3345810294151306,General_Greetings,0.3162331819534302
+197,Does the US have a confirmed COVID case?,Covid_Case_Count,Covid_Case_Count,0.7526015281677247,tx_count,0.4654441356658936,Bot_Control_Change_Subject,0.2681837320327759
+198,Digital tools covid-19,Application_for_COVID-19,covid_thailand_novel,0.32331736087799073,who_video,0.2836757361888886,Application_for_COVID-19,0.2821771502494812
+199,What happens after the ordered three-week closure period ends?,Covid_School_Shutdown,COVID_Illness_Length,0.3943871259689331,Customer_Care_Store_Hours,0.34022897481918335,covid_thailand_high_temp,0.31888182163238527
+200,Can I return to the United States if I am abroad?,travel_backtoUS,travel_backtoUS,0.9322443008422852,travel_embassies,0.38562554121017456,Treatment_hospital_capacity,0.24281230568885803
+201,Hey there all,General_Greetings,General_Greetings,0.9872523784637453,General_Ending,0.4492245674133301,covid_thailand_vaccine,0.23383764624595643
+202,ddc,covid_thailand_ddc,covid_thailand_ddc,0.35143522024154666,Bot_Control_Approve_Response,0.31285245418548585,Bot_Control_Standby,0.30199873447418213
+203,Can my child attend school?,covid_thailand_child_attend_school,Covid_School_Shutdown,0.9945930957794189,Customer_Care_Appointments,0.25985137820243837,covid_thailand_parent_quarantine,0.24566118121147157
+204,Please initiate from the beginning,Bot_Control_Start_Over,Bot_Control_Start_Over,0.9516929626464845,General_Connect_to_Agent,0.28419795632362366,Cancel,0.2664694309234619
+205,How long will I feel terrible?,COVID_Illness_Length,Covid_Symptoms,0.6092897415161134,Covid_Testing_Results,0.36393753290176395,COVID_Illness_Length,0.2889537870883942
+206,should my kids go to schoolo,covid-schools-open,covid-schools-open,0.8475687026977539,General_Ending,0.3259538054466248,Treatment_info,0.23243441581726076
+207,can you assist me,Help,Bot_Control_Reject_Response,0.38285847902297976,General_Agent_Capabilities,0.36409701108932496,Bot_Control_Confirm_Presence,0.36033927202224736
+208,How long do I have to be stuck at home?,covid_thailand_quarantine,COVID_Illness_Length,0.38982118368148805,covid_thailand_quarantine,0.3841611981391907,Covid_Cleaning_Disinfecting,0.31794717311859133
+209,what are the types of symptoms,Covid_Symptoms,Covid_Symptoms,0.9824301719665527,mask_type_question,0.3575717091560364,Covid_Event_Shutdowns,0.24606211781501772
+210,Does the store in the city center opens till 8pm on weekends?,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9303968906402589,Test_Center_Contact_Info,0.3055778980255127,Customer_Care_Appointments,0.2710145652294159
+211,can you make an appointment for me,Customer_Care_Appointments,Customer_Care_Appointments,0.9597797393798828,Bot_Control_Reject_Response,0.300969409942627,Treatment_hospital_capacity,0.2639140844345093
+212,what is covid19,Covid_Description,Covid_Description,0.935049867630005,Test_Center_Contact_Info,0.28930241465568546,covid_thailand_quarantine_guidance,0.26243293881416324
+213,This is so cool,General_Positive_Feedback,General_Positive_Feedback,0.8226025104522705,Goodbye,0.2898593127727509,General_Security_Assurance,0.28174108862876895
+214,Need a minute here,Bot_Control_Standby,Bot_Control_Standby,0.6967817783355713,Bot_Control_Start_Over,0.3173526644706726,Customer_Care_Store_Hours,0.28896404504776
+215,i have symptoms. where can i get tested?,covid-screening,covid-screening,0.9282028675079346,covid_thailand_cost,0.71530179977417,Bot_Control_Unsure,0.23986097276210785
+216,Expenses for requesting laboratory confirmation,covid_thailand_expenses,covid_thailand_expenses,0.4951656341552735,Bot_Control_Change_Subject,0.2807088136672974,Customer_Care_Appointments,0.2662937164306641
+217,do I have covid?,Covid_Symptoms,covid-diagnosis,0.6930717468261719,Covid_Symptoms,0.39902101755142216,Bot_Control_Approve_Response,0.35520348548889163
+218,Is it possible to test for covid 19 during the incubation period?,covid_thailand_cost,covid_thailand_cost,0.9784986972808838,COVID_Illness_Length,0.24179541170597077,Airlines_Information,0.23744808435440065
+219,how do i know if i got this,Covid_Symptoms,Covid_Symptoms,0.4228907346725464,covid-diagnosis,0.41819081306457523,General_Agent_Capabilities,0.35649570226669314
+220,alright,Bot_Control_Approve_Response,Bot_Control_Approve_Response,0.9948076248168947,General_Greetings,0.29376957416534427,Goodbye,0.25411065816879275
+221,Connect me to a live operator please.,General_Connect_to_Agent,General_Connect_to_Agent,0.9993833541870119,masks_protection,0.281170803308487,travel_embassies,0.24933648705482483
+222,how many people ar sick in Thailand?,tx_count,tx_count,0.6336535930633544,Covid_Case_Count,0.3233697295188904,local_updates,0.25236621499061584
+223,how long is the incubation period for covid-19,COVID_Illness_Length,COVID_Illness_Length,0.9831271648406983,Application_for_COVID-19,0.28534447550773623,Treatment_hospital_capacity,0.23830331563949586
+224,testing travelers?,covid_thailand_cost,covid-screening,0.5560470819473267,cdc_traveler,0.5071317434310914,Covid_Travel_Restrictions,0.33929202556610105
+225,Airlines Information (COVID-19) Pandemic,Airlines_Information,globalcovid_pandemic,0.8109910011291503,Airlines_Information,0.29501715302467346,Application_for_COVID-19,0.27006957530975345
+226,how long does it last,COVID_Illness_Length,COVID_Illness_Length,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+227,"A real agent, please.",General_Connect_to_Agent,General_Connect_to_Agent,0.9881734371185302,General_Human_or_Bot,0.2791767239570618,Bot_Control_Start_Over,0.2578405559062958
+228,Can I take a sick leave to quarantine?,covid_thailand_quarantine,covid_thailand_quarantine,0.838985586166382,Covid_Symptoms,0.34741586446762085,masks_protection,0.23691518902778627
+229,is there a test for the coronavirus,covid_thailand_cost,covid_thailand_cost,0.8440423488616944,covid-screening,0.3024028897285462,covid-flu-vs-coronavirus,0.25348778367042546
+230,do I have to quarantine when I come back from out of the country?,covid_thailand_quarantine,covid_thailand_quarantine,0.8545090198516847,travel_backtoUS,0.558206582069397,covid_thailand_quarantine_guidance,0.25118539929389955
+231,Can I get tested at home?,covid_thailand_cost,covid-screening,0.40407011508941654,Covid_Testing_Locations,0.3080894708633423,Covid_Travel_Restrictions,0.29575353264808657
+232,I can not breath very well,Covid_Symptoms,Treatment_shortnessOfBreath,0.4502095222473145,General_Negative_Feedback,0.2918018639087677,Bot_Control_Unsure,0.2710577011108399
+233,That is what I need,Bot_Control_Approve_Response,Bot_Control_Reject_Response,0.5075228691101075,Help,0.33871854543685914,mask_type_question,0.2996100962162018
+234,"To be honest, I m really not sure",Bot_Control_Unsure,Bot_Control_Unsure,0.6583858013153077,General_Negative_Feedback,0.259546834230423,Bot_Control_Approve_Response,0.2557988524436951
+235,Is graduation delayed?,Covid_School_Shutdown,Covid_School_Shutdown,0.779367208480835,General_Ending,0.3353098392486572,Customer_Care_Store_Hours,0.2925824761390686
+236,what are symptoms of coronvirus,Covid_Symptoms,Covid_Symptoms,0.9750362873077394,COVID_Illness_Length,0.24328666925430298,Treatment_shortnessOfBreath,0.24046913683414461
+237,Who is responsible for quarantined people?,covid_thailand_quarantine,covid_thailand_quarantine,0.5420008897781372,covid_thailand_when_quarantine,0.31928181648254395,Bot_Control_Reject_Response,0.29364193677902223
+238,can you direct me to the nearest test center,covid-screening,Test_Center_Contact_Info,0.9237653255462648,Bot_Control_Start_Over,0.26522666215896606,covid_thailand_airport,0.26064299345016484
+239,How can I lower my temperature if I have the coronavirus?,Treatment_info,Treatment_info,0.54905104637146,covid-diagnosis,0.3805020093917847,covid-fever-definition,0.2678948938846588
+240,where can I get a test done,covid-screening,covid-screening,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+241,what's your phone number,Test_Center_Contact_Info,Test_Center_Contact_Info,0.8187602043151856,General_Agent_Capabilities,0.34315218925476076,General_About_You,0.3038110494613648
+242,Can you say that again please?,Bot_Control_Clarification,Cancel,0.2685086607933045,Bot_Control_Clarification,0.26117001175880433,Bot_Control_Start_Over,0.26008279919624333
+243,How many people are sick throughout the world?,tx_count,tx_count,0.769173288345337,Covid_Case_Count,0.4889768838882447,Covid_Symptoms,0.32782981395721433
+244,How long are you open?,Customer_Care_Store_Hours,Customer_Care_Store_Hours,0.9221586227416994,COVID_Illness_Length,0.3561601758003235,covid_thailand_quarantine,0.2342339485883713
+245,Is there any way to tell if my child is having difficulty breathing?,Treatment_shortnessOfBreath,Treatment_shortnessOfBreath,0.8979885578155518,Covid_School_Shutdown,0.4668675184249878,covid_thailand_cost,0.26275562644004824
+246,that's nice of you,Thanks,General_Ending,0.8976478576660156,General_Positive_Feedback,0.8559064388275146,Bot_Control_Approve_Response,0.38474425077438357
+247,What are the crisis measures currently in place?,govt_emergency,govt_emergency,0.4671811103820801,Covid_Case_Count,0.2960016489028931,General_Agent_Capabilities,0.26717563271522526
+248,Is the coronavirus the same as SARS?,covid-flu-vs-coronavirus,covid-flu-vs-coronavirus,0.990798568725586,tx_count,0.3093735098838806,Covid_Symptoms,0.2522157490253449
+249,No I'm fine thanks,Bot_Control_Reject_Response,General_Ending,0.8214866161346437,Thanks,0.6082003116607666,Bot_Control_Unsure,0.3001017212867737
+250,what is covid-19,Covid_Description,Covid_Description,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+251,What to do if you need medical help,covid_thailand_medical_advice,General_Agent_Capabilities,0.5786856412887573,Treatment_info,0.36173102855682376,Help,0.28103979825973513
+252,indeed,Bot_Control_Approve_Response,Bot_Control_Approve_Response,1.0,Airlines_Information,0.0,Application_for_COVID-19,0.0
+253,Which schools are closed?,Covid_School_Shutdown,Covid_School_Shutdown,0.9875868320465089,covid_thailand_quarantine,0.28235459923744205,travel_risk_countries,0.2702552080154419

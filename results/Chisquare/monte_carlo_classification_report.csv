@@ -1,0 +1,69 @@
+class,precision,recall,f1_score,support
+    Airlines_Information,0.0,0.0,0.0,0.0
+Application_for_COVID-19,0.0,0.0,0.0,0.0
+   BELOW_THRESHOLD,0.0,0.0,0.0,91.0
+  Bot_Control_Approve_Response,0.57,0.8,0.67,5.0
+    Bot_Control_Change_Subject,0.75,1.0,0.86,3.0
+     Bot_Control_Clarification,0.0,0.0,0.0,0.0
+  Bot_Control_Confirm_Presence,0.0,0.0,0.0,1.0
+ Bot_Control_Ignore_Undo,0.0,0.0,0.0,0.0
+   Bot_Control_Reject_Response,0.0,0.0,0.0,0.0
+     Bot_Control_Standby,1.0,0.67,0.8,3.0
+  Bot_Control_Start_Over,0.8,1.0,0.89,4.0
+Bot_Control_Unsure,0.33,1.0,0.5,1.0
+    COVID_Illness_Length,0.75,1.0,0.86,3.0
+Cancel,0.0,0.0,0.0,1.0
+  Covid_Case_Count,0.67,1.0,0.8,2.0
+   Covid_Cleaning_Disinfecting,0.33,1.0,0.5,1.0
+ Covid_Description,0.67,0.67,0.67,9.0
+   Covid_Event_Shutdowns,0.0,0.0,0.0,0.0
+   Covid_School_Shutdown,0.75,0.9,0.82,10.0
+    Covid_Symptoms,0.56,1.0,0.72,9.0
+   Covid_Testing_Results,1.0,1.0,1.0,1.0
+     Covid_Travel_Restrictions,0.67,0.5,0.57,4.0
+    Customer_Care_Appointments,0.43,1.0,0.6,3.0
+     Customer_Care_Store_Hours,1.0,1.0,1.0,6.0
+ Food_safety,0.0,0.0,0.0,0.0
+ General_About_You,0.5,1.0,0.67,2.0
+    General_Agent_Capabilities,0.25,0.5,0.33,2.0
+General_Connect_to_Agent,0.67,1.0,0.8,8.0
+    General_Ending,0.57,0.67,0.62,6.0
+ General_Greetings,0.75,1.0,0.86,3.0
+    General_Human_or_Bot,1.0,1.0,1.0,1.0
+     General_Jokes,1.0,1.0,1.0,2.0
+     General_Negative_Feedback,0.67,1.0,0.8,2.0
+     General_Positive_Feedback,0.2,1.0,0.33,1.0
+    General_Security_Assurance,0.67,1.0,0.8,4.0
+  Help,0.0,0.0,0.0,0.0
+ Social_Distancing,0.5,1.0,0.67,1.0
+Test_Center_Contact_Info,0.57,0.67,0.62,6.0
+Thanks,0.0,0.0,0.0,0.0
+   Treatment_hospital_capacity,0.5,1.0,0.67,1.0
+    Treatment_info,0.25,0.5,0.33,2.0
+   Treatment_shortnessOfBreath,1.0,0.5,0.67,2.0
+ cdc_summary,0.5,1.0,0.67,1.0
+   covid-diagnosis,0.5,0.5,0.5,4.0
+  covid-fever-definition,1.0,1.0,1.0,1.0
+covid-flu-vs-common-cold,0.0,0.0,0.0,0.0
+covid-flu-vs-coronavirus,0.62,1.0,0.77,5.0
+covid-schools-open,1.0,1.0,1.0,1.0
+   covid-screening,0.91,0.91,0.91,11.0
+covid-shortness-of-breath-definition,0.5,1.0,0.67,1.0
+  covid_thailand_child_attend_school,0.0,0.0,0.0,0.0
+     covid_thailand_child_quarantine,0.0,0.0,0.0,0.0
+     covid_thailand_cost,0.57,1.0,0.73,4.0
+covid_thailand_ddc,0.0,0.0,0.0,0.0
+ covid_thailand_declare_travel,0.0,0.0,0.0,0.0
+ covid_thailand_expenses,0.0,0.0,0.0,0.0
+   covid_thailand_hand_washing,1.0,1.0,1.0,1.0
+     covid_thailand_herbal_medicines,0.0,0.0,0.0,0.0
+ covid_thailand_medical_advice,0.0,0.0,0.0,0.0
+covid_thailand_pregnancy,0.0,0.0,0.0,0.0
+     covid_thailand_quarantine,0.78,1.0,0.88,7.0
+    globalcovid_pandemic,0.8,0.8,0.8,5.0
+    govt_emergency,0.5,1.0,0.67,2.0
+mask_type_question,0.0,0.0,0.0,0.0
+   travel_backtoUS,0.67,1.0,0.8,2.0
+  travel_embassies,0.5,1.0,0.67,1.0
+    tx_count,0.58,0.88,0.7,8.0
+     tx_test,0.0,0.0,0.0,0.0

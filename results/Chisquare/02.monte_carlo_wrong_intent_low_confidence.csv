@@ -1,0 +1,49 @@
+index,original_text,predicted_intent,actual_intent1,actual_confidence1,actual_intent2,actual_confidence2,actual_intent3,actual_confidence3,actual_intent_correct
+0,how can one know if they have been infected?,Covid_Symptoms,tx_count,0.5976738929748535,covid-diagnosis,0.4659035444259644,covid_thailand_ill_case,0.2444091320037842,BELOW_THRESHOLD
+2,airlines information,Airlines_Information,Covid_Description,0.4923874616622925,CDC_Info,0.34294116497039795,Bot_Control_Clarification,0.3013811588287354,BELOW_THRESHOLD
+8,I have one more question,Bot_Control_Change_Subject,Bot_Control_Clarification,0.6081546783447266,Bot_Control_Change_Subject,0.488050651550293,Bot_Control_Unsure,0.3006629943847656,BELOW_THRESHOLD
+10,How can I reduce the spread?,Social_Distancing,Treatment_info,0.3964350581169129,govt_emergency,0.31468220949172976,covid-prevent-spread,0.2953398704528809,BELOW_THRESHOLD
+11,You're misunderstanding me,Bot_Control_Reject_Response,Bot_Control_Confirm_Presence,0.3555177211761475,General_Negative_Feedback,0.3273293495178223,General_About_You,0.2673224270343781,BELOW_THRESHOLD
+14,You are on my nerves,General_Negative_Feedback,Covid_Symptoms,0.658116340637207,General_Negative_Feedback,0.41853854656219486,Bot_Control_Confirm_Presence,0.31678338050842286,BELOW_THRESHOLD
+15,When will the NCAA championships be held?,Covid_Event_Shutdowns,Covid_School_Shutdown,0.4757023334503174,Covid_Event_Shutdowns,0.42798049449920655,Covid_Testing_Results,0.274235475063324,BELOW_THRESHOLD
+26,In what way can I tell if my plastic is safe?,General_Security_Assurance,covid-fever-definition,0.48093178272247317,General_Security_Assurance,0.40989108085632325,covid-what-if-sick,0.33315349817276,BELOW_THRESHOLD
+30,What do you mean by that?,Bot_Control_Clarification,General_Agent_Capabilities,0.6314127922058106,covid-shortness-of-breath-definition,0.46583137512207035,Bot_Control_Ignore_Undo,0.37852799892425537,BELOW_THRESHOLD
+39,Pregnancy advice,covid_thailand_pregnancy,Covid_Symptoms,0.39415892362594607,Covid_Testing_Results,0.24465589821338654,Customer_Care_Appointments,0.2385614335536957,BELOW_THRESHOLD
+41,I'm looking forward to working with you again! :),General_Positive_Feedback,General_Ending,0.41619424819946294,General_Human_or_Bot,0.3188265562057495,covid-schools-open,0.31169698238372806,BELOW_THRESHOLD
+45,Yes send text message,Bot_Control_Approve_Response,Bot_Control_Reject_Response,0.29200305938720705,Bot_Control_Approve_Response,0.29125940799713135,Bot_Control_Start_Over,0.2846747994422913,BELOW_THRESHOLD
+57,What do you mean?,Bot_Control_Clarification,General_Agent_Capabilities,0.5302582740783692,covid-shortness-of-breath-definition,0.5204671859741211,covid-fever-definition,0.4078145503997803,BELOW_THRESHOLD
+70,Should I spray myself or my kids with disinfectant?,Covid_Cleaning_Disinfecting,covid-schools-open,0.46621594429016117,Covid_Cleaning_Disinfecting,0.4637065410614014,covid-diagnosis,0.28975898623466495,BELOW_THRESHOLD
+85,Where can I learn more about covid?,Covid_Description,Bot_Control_Clarification,0.36793458461761475,who_video,0.3236412525177002,General_About_You,0.31662490367889407,BELOW_THRESHOLD
+93,What are you saying?,Bot_Control_Clarification,General_Agent_Capabilities,0.31342549324035646,General_Human_or_Bot,0.30244888067245485,Bot_Control_Clarification,0.29444264173507695,BELOW_THRESHOLD
+95,That's everything,General_Ending,Bot_Control_Ignore_Undo,0.4338272094726563,Bot_Control_Approve_Response,0.301733934879303,General_Greetings,0.29337258338928224,BELOW_THRESHOLD
+99,Is it safe to fly to Seattle?,Covid_Travel_Restrictions,cdc_traveler,0.4251389265060425,Food_safety,0.3341156125068665,General_Greetings,0.32178148031234743,BELOW_THRESHOLD
+100,Let us reopen this again.,Bot_Control_Start_Over,Bot_Control_Ignore_Undo,0.6117782115936279,Bot_Control_Start_Over,0.35452142953872684,Bot_Control_Standby,0.3111645340919495,BELOW_THRESHOLD
+102,How do flu symptoms differ from cold symptoms?,covid-flu-vs-common-cold,covid-flu-vs-coronavirus,0.5066048622131347,covid-flu-vs-common-cold,0.3706743836402893,Covid_Symptoms,0.3432618141174316,BELOW_THRESHOLD
+104,how does cover-19 compare to the SARS epidemic?,covid-flu-vs-coronavirus,globalcovid_pandemic,0.34990423917770386,COVID_Illness_Length,0.2860005676746369,Covid_Symptoms,0.2644469022750855,BELOW_THRESHOLD
+106,Must a child be quarantined for 14 days if he/she had contact with a person who had travelled to a high-risk country/area? (child did not travel),covid_thailand_child_quarantine,covid_thailand_parent_quarantine,0.17455136679107142,covid_thailand_quarantine,0.1335309542983225,travel_embassies,0.13204192926365935,BELOW_THRESHOLD
+107,Are you safe?,General_Security_Assurance,General_Human_or_Bot,0.4930809736251831,General_Security_Assurance,0.4068528175354004,Bot_Control_Confirm_Presence,0.28102559447288517,BELOW_THRESHOLD
+111,Returning from abroad,travel_backtoUS,travel_embassies,0.4908966064453125,covid_thailand_travel_update,0.27295507192611695,Covid_Event_Shutdowns,0.2679918766021729,BELOW_THRESHOLD
+115,i changed my mind,Cancel,Bot_Control_Approve_Response,0.627143955230713,Customer_Care_Appointments,0.30659409761428835,Bot_Control_Ignore_Undo,0.26145650744438176,BELOW_THRESHOLD
+116,SARS vs Corona virus?,covid-flu-vs-coronavirus,Covid_Description,0.5268434762954712,covid-flu-vs-coronavirus,0.4689924001693726,tx_count,0.32608263492584233,BELOW_THRESHOLD
+127,Hi can you transfer me,General_Connect_to_Agent,General_Greetings,0.38708555698394775,General_Connect_to_Agent,0.3093042492866516,Bot_Control_Confirm_Presence,0.249994096159935,BELOW_THRESHOLD
+128,i need assistance,Help,Bot_Control_Start_Over,0.3127277135848999,Help,0.2931015729904175,Bot_Control_Reject_Response,0.289834064245224,BELOW_THRESHOLD
+138,How is a cold different from the flu?,covid-flu-vs-common-cold,covid-flu-vs-coronavirus,0.6664173126220703,covid-flu-vs-common-cold,0.4560449600219727,covid-fever-definition,0.3457182765007019,BELOW_THRESHOLD
+142,Who is this?,General_Greetings,General_Positive_Feedback,0.3290169954299927,travel_embassies,0.3103396534919739,Bot_Control_Change_Subject,0.3060852646827698,BELOW_THRESHOLD
+152,You gave me exactly what I need!,General_Positive_Feedback,mask_type_question,0.28520407080650334,Bot_Control_Reject_Response,0.27866616249084475,Bot_Control_Approve_Response,0.26838866472244266,BELOW_THRESHOLD
+154,do you have availability next week,Customer_Care_Appointments,Customer_Care_Store_Hours,0.37840540409088136,Customer_Care_Appointments,0.37464346885681155,local_updates,0.245771586894989,BELOW_THRESHOLD
+155,Do you have a list of things I can talk to you about?,General_Agent_Capabilities,Bot_Control_Change_Subject,0.27808254957199097,travel_embassies,0.2595396637916565,General_About_You,0.25416988730430606,BELOW_THRESHOLD
+163,give me directions,Test_Center_Contact_Info,tx_count,0.4295319795608521,Test_Center_Contact_Info,0.32392654418945316,CDC_Info,0.3130369067192078,BELOW_THRESHOLD
+166,Set up an appt,Customer_Care_Appointments,General_Ending,0.3260664939880371,Customer_Care_Appointments,0.32566877603530886,General_About_You,0.26766359210014345,BELOW_THRESHOLD
+193,Is HS 123 open?,Covid_School_Shutdown,Customer_Care_Store_Hours,0.6249860286712647,tx_count,0.34656610488891604,General_Ending,0.2919304251670838,BELOW_THRESHOLD
+196,You got me,Bot_Control_Unsure,Bot_Control_Confirm_Presence,0.5324851989746093,Bot_Control_Approve_Response,0.3345810294151306,General_Greetings,0.3162331819534302,BELOW_THRESHOLD
+198,Digital tools covid-19,Application_for_COVID-19,covid_thailand_novel,0.32331736087799073,who_video,0.2836757361888886,Application_for_COVID-19,0.2821771502494812,BELOW_THRESHOLD
+199,What happens after the ordered three-week closure period ends?,Covid_School_Shutdown,COVID_Illness_Length,0.3943871259689331,Customer_Care_Store_Hours,0.34022897481918335,covid_thailand_high_temp,0.31888182163238527,BELOW_THRESHOLD
+205,How long will I feel terrible?,COVID_Illness_Length,Covid_Symptoms,0.6092897415161134,Covid_Testing_Results,0.36393753290176395,COVID_Illness_Length,0.2889537870883942,BELOW_THRESHOLD
+207,can you assist me,Help,Bot_Control_Reject_Response,0.38285847902297976,General_Agent_Capabilities,0.36409701108932496,Bot_Control_Confirm_Presence,0.36033927202224736,BELOW_THRESHOLD
+208,How long do I have to be stuck at home?,covid_thailand_quarantine,COVID_Illness_Length,0.38982118368148805,covid_thailand_quarantine,0.3841611981391907,Covid_Cleaning_Disinfecting,0.31794717311859133,BELOW_THRESHOLD
+224,testing travelers?,covid_thailand_cost,covid-screening,0.5560470819473267,cdc_traveler,0.5071317434310914,Covid_Travel_Restrictions,0.33929202556610105,BELOW_THRESHOLD
+231,Can I get tested at home?,covid_thailand_cost,covid-screening,0.40407011508941654,Covid_Testing_Locations,0.3080894708633423,Covid_Travel_Restrictions,0.29575353264808657,BELOW_THRESHOLD
+232,I can not breath very well,Covid_Symptoms,Treatment_shortnessOfBreath,0.4502095222473145,General_Negative_Feedback,0.2918018639087677,Bot_Control_Unsure,0.2710577011108399,BELOW_THRESHOLD
+233,That is what I need,Bot_Control_Approve_Response,Bot_Control_Reject_Response,0.5075228691101075,Help,0.33871854543685914,mask_type_question,0.2996100962162018,BELOW_THRESHOLD
+242,Can you say that again please?,Bot_Control_Clarification,Cancel,0.2685086607933045,Bot_Control_Clarification,0.26117001175880433,Bot_Control_Start_Over,0.26008279919624333,BELOW_THRESHOLD
+251,What to do if you need medical help,covid_thailand_medical_advice,General_Agent_Capabilities,0.5786856412887573,Treatment_info,0.36173102855682376,Help,0.28103979825973513,BELOW_THRESHOLD
